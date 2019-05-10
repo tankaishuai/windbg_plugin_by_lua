@@ -1,4 +1,4 @@
-
+﻿
 --you can call it like this:
 --   !luadbg.run do_file .\sample_plugin.lua
 --   !luadbg.run echo_msg "your msg"
