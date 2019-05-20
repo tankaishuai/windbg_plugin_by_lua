@@ -11,6 +11,10 @@ you can call it like this:
 2. Start Debugging. Use the command below to load you Lua script.
 
    !luadbg.run do_file .\sample_plugin.lua
+   
+   or:
+   
+   !luadbg.run #.\sample_plugin.lua
 
 3. Then you can call you function (e.g. echo_msg ) like:
 
