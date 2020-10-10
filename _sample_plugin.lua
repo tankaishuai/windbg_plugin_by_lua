@@ -1,6 +1,6 @@
-﻿
+
 --you can call it like this:
---   !luadbg.run do_file .\sample_plugin.lua
+--   !luadbg.run do_file .\_sample_plugin.lua
 --   !luadbg.run echo_msg "your msg"
 
 function echo_msg(args)
